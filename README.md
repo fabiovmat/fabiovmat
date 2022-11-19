@@ -1,6 +1,6 @@
 hi there!
 
-My working languages Java, Springboot, Javascript and Angular
+My working languages  Javascript, Angular and HTML.
 
 Database: PostgreSQL and Mysql also Oracle
 
@@ -20,9 +20,6 @@ Database: PostgreSQL and Mysql also Oracle
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=60 width=60/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=60 width=60/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=60 width=60/>
-  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height=60 width=60/>
             
