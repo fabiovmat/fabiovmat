@@ -15,6 +15,12 @@ Database: PostgreSQL and Mysql also Oracle
 
 <div>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=80 width=80/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=60 width=60/>
       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=60 width=60/>
@@ -29,7 +35,7 @@ Database: PostgreSQL and Mysql also Oracle
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
             
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=80 width=80/>
+
                       
                     
 
