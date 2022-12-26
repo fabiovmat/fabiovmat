@@ -1,6 +1,6 @@
 hi there!
 
-My working languages  Javascript, Angular and HTML.
+My working languages  JAVA, Javascript, Angular and HTML.
 
 Database: PostgreSQL and Mysql also Oracle
 
