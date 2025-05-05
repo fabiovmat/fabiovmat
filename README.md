@@ -4,8 +4,6 @@ My working languages  PYTHON, Javascript .
 
 Database: PostgreSQL and Mysql also Oracle
 
-![snake gif](https://github.com/fabiovmat/fabiovmat/blob/output/github-contribution-grid-snake.gif)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovmat&hide=contribs,prs&theme=radical)
   
@@ -15,7 +13,7 @@ Database: PostgreSQL and Mysql also Oracle
 
 <div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=60 width=60/>
           
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=60 width=60/>
