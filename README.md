@@ -8,7 +8,7 @@ Database: PostgreSQL and Mysql also Oracle
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovmat&hide=contribs,prs&theme=radical)
   
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovmat&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovmat&layout=compact)
 
 
 <div>
@@ -25,8 +25,14 @@ Database: PostgreSQL and Mysql also Oracle
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=80 width=80/>
             
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=80 width=80/>
+          
 
-                      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height=80 width=80/>
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height=80 width=80/>
+                               
                     
 
 </div>
