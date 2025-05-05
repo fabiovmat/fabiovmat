@@ -8,7 +8,7 @@ Database: PostgreSQL and Mysql also Oracle
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovmat&hide=contribs,prs&theme=radical)
   
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovmat&layout=compact&hide=javascript,html,java,typescript,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovmat&layout=donut&hide=javascript,html,java,typescript,css)
 
 
 <div>
