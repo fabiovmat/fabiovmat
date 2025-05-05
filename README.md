@@ -5,7 +5,7 @@ My working languages  PYTHON, Javascript .
 Database: PostgreSQL and Mysql also Oracle
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovmat&hide=contribs,prs&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovmat&hide=contribs,prs&theme=transparent)
   
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovmat&layout=donut&hide=javascript,html,java,typescript,css)
